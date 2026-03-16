@@ -8,6 +8,6 @@
   "cleanup": true,
   "theme": "flow",
   "css": "./custom.css",
-  "footer": "Copyright https://AdamGreenberg.github.io",
+  "footer": "'Previously, on Instagram...' Copyright(c) 2026. https://AdamGreenberg.github.io",
   "usage-stats": false
 }
