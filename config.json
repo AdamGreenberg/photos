@@ -1,13 +1,13 @@
 {
   "input": "./gallery",
   "output": "./build_output",
-  "title": "Our Zambian Cats! Espy and Ilini",
+  "title": "'Previously, on Instagram...'",
   "sort-albums-by": "title",
   "sort-media-by": "filename",
   "download-photos": "copy",
   "cleanup": true,
   "theme": "flow",
   "css": "./custom.css",
-  "footer": "Copyright https://AdamAndLianne.github.io",
+  "footer": "Copyright https://AdamGreenberg.github.io",
   "usage-stats": false
 }
