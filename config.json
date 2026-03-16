@@ -4,10 +4,12 @@
   "title": "'Previously, on Instagram...'",
   "sort-albums-by": "title",
   "sort-media-by": "filename",
+  "album-previews": "random",
+  "home-album-name": "@AdamGreenberg",
   "download-photos": "copy",
   "cleanup": true,
   "theme": "flow",
   "css": "./custom.css",
-  "footer": "Copyright(c) 2026. | https://AdamGreenberg.github.io | @AdamGreenberg",
+  "footer": "Copyright(c) 2026. | https://AdamGreenberg.github.io",
   "usage-stats": false
 }
