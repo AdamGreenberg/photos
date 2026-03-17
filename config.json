@@ -7,7 +7,7 @@
   "sort-media-by": "filename",
   "sort-media-direction": "desc",
   "album-previews": "random",
-  "home-album-name": "Photos",
+  "home-album-name": "Albums",
   "download-photos": "copy",
   "cleanup": true,
   "theme": "flow",
